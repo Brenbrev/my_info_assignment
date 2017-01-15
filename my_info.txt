@@ -1,3 +1,4 @@
 Brendan Brevig
 Sophmore at Winona State University
-
+Birthdate 06/10/97
+New to command lines
